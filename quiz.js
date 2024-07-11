@@ -1,0 +1,1 @@
+{"response_code":0,"results":[{"category":"History","correct_answer":"True","difficulty":"medium","incorrect_answers":["False"],"question":"Martin%20Luther%20King%20Jr.%20and%20Anne%20Frank%20were%20born%20the%20same%20year.%20","type":"boolean"}]}
